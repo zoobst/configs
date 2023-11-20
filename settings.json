@@ -2100,4 +2100,6 @@
         "debugExceptionWidget.background": "#333333",
         "debugExceptionWidget.border": "#474747"
       }
+    "gopls": { "ui.semanticTokens": true },
+    "terminal.integrated.defaultProfile.linux": "zsh"
 }
